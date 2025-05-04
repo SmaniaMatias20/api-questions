@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué empresa desarrolló el sistema operativo Windows?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+            "Apple",
+            "Google",
+            "IBM"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué significa 'HTML'?",
+        "correct_answer": "HyperText Markup Language",
+        "incorrect_answers": [
+            "HighText Machine Language",
+            "HyperTransfer Markup Language",
+            "HyperText Markdown Language"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué lenguaje se utiliza principalmente para diseñar el estilo de sitios web?",
+        "correct_answer": "CSS",
+        "incorrect_answers": [
+            "JavaScript",
+            "HTML",
+            "Python"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál fue la primera red social ampliamente popular?",
+        "correct_answer": "MySpace",
+        "incorrect_answers": [
+            "Facebook",
+            "Twitter",
+            "Hi5"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué empresa creó el sistema operativo Android?",
+        "correct_answer": "Google",
+        "incorrect_answers": [
+            "Apple",
+            "Samsung",
+            "Nokia"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué componente de hardware es considerado el 'cerebro' de una computadora?",
+        "correct_answer": "CPU",
+        "incorrect_answers": [
+            "RAM",
+            "Disco duro",
+            "Placa madre"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué navegador fue desarrollado por Mozilla?",
+        "correct_answer": "Firefox",
+        "incorrect_answers": [
+            "Edge",
+            "Chrome",
+            "Safari"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál de estos lenguajes se usa más comúnmente para crear apps móviles en Android?",
+        "correct_answer": "Kotlin",
+        "incorrect_answers": [
+            "Swift",
+            "C#",
+            "Ruby"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué es Git?",
+        "correct_answer": "Un sistema de control de versiones",
+        "incorrect_answers": [
+            "Un sistema operativo",
+            "Un lenguaje de programación",
+            "Una base de datos"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué empresa es dueña de YouTube?",
+        "correct_answer": "Google",
+        "incorrect_answers": [
+            "Meta",
+            "Amazon",
+            "Microsoft"
+        ]
+    }
+]

@@ -118,5 +118,245 @@
             "Amazon",
             "Microsoft"
         ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué significa 'CPU'?",
+        "correct_answer": "Unidad Central de Procesamiento",
+        "incorrect_answers": [
+            "Unidad de Control de Procesos",
+            "Central de Programación Unificada",
+            "Unidad Centralizada de Programa"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué lenguaje es conocido por su uso en ciencia de datos y machine learning?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+            "Java",
+            "C",
+            "PHP"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué dispositivo se utiliza para mover el cursor en la pantalla?",
+        "correct_answer": "Ratón",
+        "incorrect_answers": [
+            "Teclado",
+            "Monitor",
+            "Impresora"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué empresa fabrica los procesadores Ryzen?",
+        "correct_answer": "AMD",
+        "incorrect_answers": [
+            "Intel",
+            "NVIDIA",
+            "Qualcomm"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál es el navegador predeterminado en Windows 10?",
+        "correct_answer": "Microsoft Edge",
+        "incorrect_answers": [
+            "Internet Explorer",
+            "Chrome",
+            "Firefox"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué significa la 'R' en RAM?",
+        "correct_answer": "Random",
+        "incorrect_answers": [
+            "Read",
+            "Run",
+            "Render"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué extensión tiene un archivo ejecutable en Windows?",
+        "correct_answer": ".exe",
+        "incorrect_answers": [
+            ".docx",
+            ".txt",
+            ".mp3"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre del lenguaje que se ejecuta en navegadores y permite interactividad?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "Python",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál de los siguientes NO es un sistema operativo?",
+        "correct_answer": "Google Chrome",
+        "incorrect_answers": [
+            "Windows",
+            "Linux",
+            "macOS"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué tipo de memoria se borra al apagar el ordenador?",
+        "correct_answer": "RAM",
+        "incorrect_answers": [
+            "Disco duro",
+            "ROM",
+            "SSD"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Con qué extensión se guardan los archivos de hojas de cálculo de Excel?",
+        "correct_answer": ".xlsx",
+        "incorrect_answers": [
+            ".docx",
+            ".pptx",
+            ".txt"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál de estas marcas es conocida por fabricar tarjetas gráficas?",
+        "correct_answer": "NVIDIA",
+        "incorrect_answers": [
+            "Intel",
+            "Asus",
+            "Seagate"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál es el símbolo usado en JavaScript para declarar una constante?",
+        "correct_answer": "const",
+        "incorrect_answers": [
+            "let",
+            "var",
+            "define"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál es el nombre del servicio de almacenamiento en la nube de Google?",
+        "correct_answer": "Google Drive",
+        "incorrect_answers": [
+            "Google Docs",
+            "Google Maps",
+            "Google Cloud"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Cuál de estos comandos se usa para listar archivos en Linux?",
+        "correct_answer": "ls",
+        "incorrect_answers": [
+            "cd",
+            "mv",
+            "rm"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué significa 'URL'?",
+        "correct_answer": "Uniform Resource Locator",
+        "incorrect_answers": [
+            "Universal Routing Link",
+            "Unified Resource Language",
+            "Universal Reference Locator"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué hace una impresora?",
+        "correct_answer": "Produce una copia física de un documento",
+        "incorrect_answers": [
+            "Escanea documentos",
+            "Edita documentos",
+            "Sube documentos a internet"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué es un dominio web?",
+        "correct_answer": "La dirección de un sitio web",
+        "incorrect_answers": [
+            "Un tipo de archivo",
+            "Una contraseña",
+            "Un lenguaje de programación"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué hace un firewall?",
+        "correct_answer": "Protege contra accesos no autorizados",
+        "incorrect_answers": [
+            "Enfría el procesador",
+            "Aumenta la velocidad de internet",
+            "Instala programas"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "¿Qué programa se usa comúnmente para crear presentaciones?",
+        "correct_answer": "Microsoft PowerPoint",
+        "incorrect_answers": [
+            "Microsoft Word",
+            "Excel",
+            "Photoshop"
+        ]
     }
 ]
